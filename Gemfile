@@ -47,7 +47,7 @@ source "https://rubygems.org"
 
 
 # frozen_string_literal: true
-source 'https://rubygems.org'
+# source 'https://rubygems.org'
 
 gem 'jekyll','~> 4.3.0'
 gem 'jekyll-feed'
