@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
+# remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.1
 ignore_theme_config: true
 
 title: Welcome to Fieash's Blog!
