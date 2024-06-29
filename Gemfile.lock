@@ -204,7 +204,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.18)
-  jekyll
+  jekyll (~> 4.3.0)
   jekyll-feed
   jekyll-include-cache
   jekyll-seo-tag

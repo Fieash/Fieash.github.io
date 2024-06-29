@@ -49,7 +49,7 @@ source "https://rubygems.org"
 # frozen_string_literal: true
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll','~> 4.3.0'
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 gem 'jekyll-include-cache'
