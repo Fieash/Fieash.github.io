@@ -43,7 +43,8 @@ theme_mode: dark
 # plugins:
 #   - jekyll-feed
 
-avatar: "/assets/images/other/langbiang_avatar.png"
+# avatar: "/assets/images/other/langbiang_avatar.png"
+avatar: "/assets/images/other/ecsc24_avatar.jpg"
 timezone: Asia/Singapore
 lang: en
 
